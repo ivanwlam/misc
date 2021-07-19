@@ -2,6 +2,6 @@ body {
 	background-color: black;
 }
 
-.task-card-row {
+.board .task-card-row {
 	background-color: lime;
 }
